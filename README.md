@@ -1,2 +1,2 @@
 # Learning-Julia
-Material is from https://github.com/JuliaAcademy/Introduction-to-Julia/tree/main
+This repository collects all code that I used to learn Julia. 
